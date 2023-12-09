@@ -1,0 +1,142 @@
+{
+  "students": [
+    {
+      "id": "e6984582-923c-4213-b9ec-b5f14615f030",
+      "name": "nam111111",
+      "personalNumber": "123456789012"
+    },
+    {
+      "id": "d39d7bf8-642d-45b2-8f28-6854d3d36ca2",
+      "name": "ss",
+      "personalNumber": "dsdsdf"
+    },
+    {
+      "id": "9700dd56-a6fe-4443-8a1e-f16d4d2eee8f",
+      "name": "name1",
+      "personalNumber": "1010"
+    },
+    {
+      "id": "7e32ab80-19ad-4ffe-8359-20ec58651499",
+      "name": "name2",
+      "personalNumber": "1010"
+    },
+    {
+      "id": "d86276bf-8f3e-4bb0-8830-424f48cff539",
+      "name": "name3",
+      "personalNumber": "2020"
+    },
+    {
+      "id": "6c7ef588-ead8-4351-82da-ceedd100908d",
+      "name": "name4",
+      "personalNumber": "2020"
+    },
+    {
+      "id": "b5114c82-89e4-4ad6-9b55-13b275edb059",
+      "name": "ssssss",
+      "personalNumber": "sssss"
+    },
+    {
+      "id": "b2c27136-83bc-4c09-a808-a78b81214e39",
+      "name": "sds",
+      "personalNumber": "sd"
+    },
+    {
+      "id": "9034ce76-a407-4fa8-86ce-171dddb96207",
+      "name": "sd",
+      "personalNumber": "sd"
+    },
+    {
+      "id": "c021e519-028a-444e-a127-7b9025c3125a",
+      "name": "wewe",
+      "personalNumber": "wewe"
+    }
+  ],
+  "users": [],
+  "signup": [
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 1
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 2
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 3
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 4
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 5
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 6
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 7
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 8
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 9
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 10
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 11
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 12
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 13
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 14
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 15
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 16
+    },
+    {
+      "email": "nino@mail.com",
+      "password": "bestPassw0rd",
+      "id": 17
+    }
+  ]
+}
